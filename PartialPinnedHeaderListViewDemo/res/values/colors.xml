@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <color name="header_bg">#88EE2C2C</color>
+    <color name="header_static_bg">#88FF7F00</color>
+    <color name="header_pinned_bg">#88EEAEEE</color>
+ 
+</resources>

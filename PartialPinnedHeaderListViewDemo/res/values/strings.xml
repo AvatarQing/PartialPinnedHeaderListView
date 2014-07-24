@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">PartialPinnedHeaderListView Demo</string>
+    <string name="header_fixed_text">Fixed Header!</string>
+    <string name="header_static_text">Static Header!</string>
+ 
+</resources>
